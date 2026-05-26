@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonrdpavani">
+  <a href="https://www.linkedin.com/in/leopavani/">
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;
