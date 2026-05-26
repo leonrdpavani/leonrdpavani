@@ -1,11 +1,11 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./beach.jpeg" width="100%" alt="Banner" />
-</div>
+</div> -->
 
 <div>
 <h1 align="center">👋🏼 Howdy! I'm Leonardo C. Pavani</h1>
 
-## I'm creating awesome projects right now... 
+<h1 align="center"> I'm creating something right now...</h1> 
 </div>
 
 ---
@@ -23,34 +23,15 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  
+  <h1> • </h1>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  
+  <h1> • </h1>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leonrdpavani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonrdpavani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonrdpavani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/1a1b27/leonrdpavani" alt="GitHub Contribution Graph" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/leonrdpavani">💻 GitHub</a>
-</div>
 
 ---
 
@@ -65,3 +46,5 @@
 ---
 
 <p align="center"><i>"🧠 Be creative and create."</i></p>
+
+![Snake animation](https://github.com/leonardpavani/leonardpavani/blob/output/github-contribuition-grid-snake.svg)
