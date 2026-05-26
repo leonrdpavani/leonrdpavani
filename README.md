@@ -28,10 +28,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonrdpavani">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;
-  <h2>🫱🏼‍🫲🏼 Let's Connect!</h2>
+  <b>🫱🏼‍🫲🏼 Let's Connect!</b>
 </p>
 
 <p align="center"><i>"🧠 Be creative and create."</i></p>
