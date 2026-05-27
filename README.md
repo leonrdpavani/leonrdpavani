@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leopavani/">
-    <img src="https://img.shields.io/badge/Lets_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lets_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
