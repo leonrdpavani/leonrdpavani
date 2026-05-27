@@ -52,19 +52,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leonrdpavani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonrdpavani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/1a1b27/leonrdpavani" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/leopavani/">
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
