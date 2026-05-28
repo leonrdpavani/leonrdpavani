@@ -6,7 +6,7 @@
 
 <p align="center"><i>"Currently studying, designing, and coding things into existence."</i></p>
 
----
+<br>
 
 ## 🧑🏻‍💻 About Me
 
@@ -16,13 +16,11 @@
 >
 > I'm also practicing **backend development** and relational **databases**, which helps me build more complete and well-integrated solutions.   
 
----
+<br>
 
 ## 🧠 Tools & Languages
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="60%" style="border: none;">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlxbjBxZnI2cDllc2Nha2dndWo1aXhnMnM0aHY1Zzg5OWl1azltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy.gif" width="280" alt="Coding GIF" />
 
 **🎨 Frontend**
 
@@ -56,14 +54,8 @@
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
 </p>
 
-  </td>
-    <td valign="middle" align="right" width="40%" style="border: none; padding-left: 20px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlxbjBxZnI2cDllc2Nha2dndWo1aXhnMnM0aHY1Zzg5OWl1azltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy.gif" width="280" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
-
----
+<br clear="both">
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leopavani/">
