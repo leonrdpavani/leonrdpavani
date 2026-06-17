@@ -10,6 +10,7 @@
 
 ## 🧑🏻‍💻 About Me
 
+> [!NOTE]
 > Focused on building interfaces that are both functional and visually compelling. I believe great products come from the intersection of **design thinking** and **good code**.
 >
 > Currently studying **Systems Analysis and Development** while working hands-on with real projects from wireframes in Figma to production-ready components in React and Next.js.
